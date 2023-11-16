@@ -176,7 +176,7 @@
     "sass-loader": "^12.6.0",
     "scheduler": "^0.23.0",
     "scmp": "^2.1.0",
-    "sharp": "^0.31.3",
+    "sharp": "^0.32.6",
     "slate": "^0.91.4",
     "slate-history": "^0.86.0",
     "slate-hyperscript": "^0.81.3",
